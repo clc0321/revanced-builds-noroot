@@ -1,7 +1,8 @@
-YouTube: 19.16.39  
-Music (arm64-v8a): 7.22.52  
-Music-Extended (arm-v7a): 7.16.53  
 Music-Extended (arm64-v8a): 7.16.53  
+Music (arm-v7a): 7.23.51  
+Music (arm64-v8a): 7.23.51  
+YouTube: 19.16.39  
+Music-Extended (arm-v7a): 7.16.53  
 YouTube-Extended: 19.16.39  
 GooglePhotos: 7.3.0.682956182  
 
