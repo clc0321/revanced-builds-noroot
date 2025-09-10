@@ -1,6 +1,6 @@
 {
-  "version": "v8.33.53 (patches: 5.34.0)",
-  "versionCode": 184,
-  "zipUrl": "https://github.com/clc0321/revanced-builds-noroot/releases/download/184/music-revanced-magisk-v8.33.53-arm-v7a.zip",
+  "version": "v8.35.52 (patches: 5.35.0)",
+  "versionCode": 185,
+  "zipUrl": "https://github.com/clc0321/revanced-builds-noroot/releases/download/185/music-revanced-magisk-v8.35.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/clc0321/revanced-builds-noroot/update/build.md"
 }
